@@ -8,7 +8,7 @@ Conduct a complete end-to-end data analysis pipeline to uncover key business ins
 
 ## 📈 Dashboard Preview
 
-![Dashboard Screenshot](Screenshot2025-07-24151647.png)
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
